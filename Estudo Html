@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="pt-BR">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Anotações HTML</title>
+        <meta name="viewport" content="width=device=width, initial-scale=1.0">
+    </head>
+
+<body>
+    <h1>ANOTAÇÕES SOBRE HTML</h1>
+    <P>O que é HTML?
+        HTML significa HyperText Markup Language (Linguagem de Marcação de Hipertexto).
+        É a linguagem usada para criar a estrutura da páginas da web.
+
+        Pense no HTML como o "esqueleto" de um site.
+        Ele organiza elementos como:
+            
+            <ul>
+                <li>Títulos</li>
+                <li>textos</li>
+                <li>imagens</li>
+                <li>links</li>
+                <li>tabelas</li>
+                <li>formulários</li>
+                <li>botões</li>
+                <li>vídeos</li>
+            </ul>
+
+        Exemplo simples:
+
+            <xmp>
+                <!DOCTYPE html>
+                <html lang="pt-BR">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>Document</title>
+                </head>
+                <body>
+                    
+                </body>
+                </html>
+            </xmp>
+    </P>
+</body>
+</html>
